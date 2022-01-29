@@ -36,3 +36,4 @@ Bina otomasyonu sürecinde grup üyelerinin görevleri
 İşbölümünün süreci hızlandırdığını ve uygulama geliştirmede çok önemli olduğunu biliyoruz ancak henüz yeterli tecrübeye sahip olmadığımız için iş bölümü yerine herkes projenin her aşamasına yardımcı oldu.
 
 Bu sayede istediğimiz sonuçları alabildik.
+
